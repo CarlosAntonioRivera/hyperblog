@@ -8,5 +8,7 @@ Un blog de práctica para utilizar Git y GitHub.
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Creado por el mejor desarrollador Front-End
+* Aprendiendo cada vez más
+* Disponible
 
 Y como recordatorio: **Este readme.md es de prueba y práctica para seguir mejorando.**. Si quieres escuchar una buena canción dale click [**aquí**](https://www.youtube.com/watch?v=ww7UQTDsPEc&ab_channel=FeidVEVO "aquí")
